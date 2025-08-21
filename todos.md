@@ -7,9 +7,9 @@
 - [ ] submit blog and get published
 - [ ] 
 
-## Todos
+## Checkpoints
 
-- [ ] initial setup
+- [ ] initialze the backend
 - [ ] connect db
-- [ ] deploy
+- [ ] write db schema
 - [ ] 
