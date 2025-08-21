@@ -12,4 +12,14 @@
 - [ ] initialze the backend
 - [ ] connect db
 - [ ] write db schema
-- [ ] 
+- [ ] make backend routes
+  - [ ] home route
+  - [ ] /health route
+  - [ ] /blog route
+  - [ ] /search route
+- [ ] add authentication
+- [ ] initialize the frontend
+- [ ] make the homepage
+- [ ] /blog page
+- [ ] /write blogpage
+- [ ] /
