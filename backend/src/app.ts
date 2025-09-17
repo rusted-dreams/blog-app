@@ -2,8 +2,8 @@ import express, { Express } from "express";
 
 const app: Express = express();
 
-app.get("/", (req, res) => {
-  res.send("Welcome to blog app backend");
+app.get("/health", (req, res) => {
+  res.status(200).send("bolg app backend is up and healthy!");
 });
 
 // handle all routes
